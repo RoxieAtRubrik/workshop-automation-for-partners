@@ -4,7 +4,7 @@ Contains course materials for the [Rubrik Build](https://build.rubrik.com).
 
 To acquire the `.PDF` documents, press the **Download** button.
 
-![Download](https://user-images.githubusercontent.com/47801550/55662361-6af14b80-57e0-11e9-9563-f3e10c8aa66d.png)
+![Download]()
 
 ## :pencil: Learning Modules
 
@@ -14,34 +14,55 @@ To get started, follow the steps outlined in each module.
 
 Welcome to Rubrik Build:
 
-* [Slides](https://github.com/RoxieAtRubrik/workshop-automation-for-beginners/blob/master/01%20-%20Welcome%20to%20Rubrik%20Build.pdf)
+* [Slides]()
 
 **Module 2**
 
 Introduction to Version Control:
 
-* [Slides](https://github.com/RoxieAtRubrik/workshop-automation-for-beginners/blob/master/02%20-%20Introduction%20to%20Version%20Control.pdf)
+* [Slides]()
 * [Lab](https://github.com/RoxieAtRubrik/hello-world)
 
 **Module 3**
 
 Introduction to APIs:
 
-* [Slides](https://github.com/RoxieAtRubrik/workshop-automation-for-beginners/blob/master/03%20-%20Introduction%20to%20APIs.pdf)
+* [Slides]()
 * [Lab](https://github.com/RoxieAtRubrik/intro-to-rest-apis)
 
 **Module 4**
 
-Introduction to Programming Concepts:
+Getting Started with Rubrik APIs:
 
-* [Slides](https://github.com/RoxieAtRubrik/workshop-automation-for-beginners/blob/master/04%20-%20Introduction%20to%20Programming%20Concepts.pdf)
-* [Lab](https://github.com/RoxieAtRubrik/intro-to-programming-concepts)
+* [Slides]()
+* [Lab](https://github.com/RoxieAtRubrik/intro-to-rubrik-apis)
 
 **Module 5**
 
 Getting Started with PowerShell:
 
-* [Slides](https://github.com/RoxieAtRubrik/workshop-automation-for-beginners/blob/master/05%20-%20Getting%20Started%20with%20PowerShell.pdf)
+* [Slides]()
+* [Lab](https://github.com/RoxieAtRubrik/getting-started-with-powershell)
+
+**Module 6**
+
+Advanced PowerShell Concepts:
+
+* [Slides]()
+* [Lab](https://github.com/RoxieAtRubrik/advanced-powershell-concepts)
+
+**Module 7**
+
+Getting Started with Python:
+
+* [Slides]()
+* [Lab](https://github.com/RoxieAtRubrik/getting-started-with-python)
+
+**Module 8**
+
+Getting Started with Terraform:
+
+* [Slides]()
 
 ## :muscle: How You Can Help
 
